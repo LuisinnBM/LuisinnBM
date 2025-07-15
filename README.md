@@ -71,7 +71,3 @@
 <p align="center">
   Se gostou do meu perfil, não esqueça de deixar uma ⭐ aqui e me seguir para acompanhar projetos futuros!
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisinnBM&color=lightgrey&label=Visualiza%C3%A7%C3%B5es&style=for-the-badge" alt="Visualizações" />
-</p>
